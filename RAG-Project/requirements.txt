@@ -1,0 +1,9 @@
+streamlit
+pymilvus
+sentence-transformers
+pytesseract
+Pillow
+docx
+whisper
+fitz
+openai
